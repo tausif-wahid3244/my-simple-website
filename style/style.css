@@ -13,3 +13,51 @@
     box-shadow: 10px;
     border-bottom: 10px solid green;
 }
+
+#git{
+    color: tomato;
+    background-color: yellow ;
+    box-shadow: 10px;
+    border: 10px solid rgb(128, 0, 0);
+    border-radius: 10px;
+}
+
+.para2{
+    background-color: rgb(184, 69, 11);
+    margin: 10px;
+    color: aqua ;
+    box-shadow: 10pxx;
+    border: 10px solid rgb(71, 135, 255);
+    padding: 5px;
+
+}
+
+.para3{
+    background-color: rgb(184, 69, 11);
+    margin: 10px;
+    color: aqua ;
+    box-shadow: 10pxx;
+    border: 10px solid rgb(71, 135, 255);
+    padding: 5px;
+
+}
+
+.para4{
+    background-color: rgb(184, 69, 11);
+    margin: 10px;
+    color: aqua ;
+    box-shadow: 10pxx;
+    border: 10px solid rgb(71, 135, 255);
+    padding: 5px;
+
+}
+
+.para5{
+    background-color: rgb(184, 69, 11);
+    margin: 10px;
+    color: aqua ;
+    box-shadow: 10pxx;
+    border: 10px solid rgb(71, 135, 255);
+    padding: 5px;
+
+}
